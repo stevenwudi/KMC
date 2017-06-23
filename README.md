@@ -1,6 +1,5 @@
-# KMC_cvprw_2017
+# KMC
 This is the code for the paper "Kernalised Multi-resolution Convnet for Visual Tracking"
-
 
 Purpose
 =============
@@ -19,8 +18,8 @@ If you use this toolbox as part of a research project, please cite the correspon
 ```yaml
 @inproceedings{wu2017cvprw,
   title={Kernalised Multi-resolution Convnet for Visual Tracking},
-  author={Wu, Di and Wenbin, Zou and Xia, Li and Yong, Zhao},
-  booktitle={Proc. Conference on Computer Vision and Pattern Recognition (CVPR) Workshop},
+  author={},
+  booktitle={},
   year={2017}
 }
 ```
